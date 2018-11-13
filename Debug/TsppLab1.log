@@ -1,0 +1,7 @@
+﻿  TsppLab1.cpp
+d:\programs\tspplab1\tspplab1\tspplab1.cpp(19): warning C4305: аргумент: усечение из "double" в "float"
+d:\programs\tspplab1\tspplab1\tspplab1.cpp(20): warning C4305: аргумент: усечение из "double" в "float"
+d:\programs\tspplab1\tspplab1\tspplab1.cpp(21): warning C4305: аргумент: усечение из "double" в "float"
+d:\programs\tspplab1\tspplab1\tspplab1.cpp(22): warning C4305: аргумент: усечение из "double" в "float"
+d:\programs\tspplab1\tspplab1\tspplab1.cpp(23): warning C4305: аргумент: усечение из "double" в "float"
+  TsppLab1.vcxproj -> D:\Programs\TsppLab1\Debug\TsppLab1.exe
